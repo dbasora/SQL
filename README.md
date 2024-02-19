@@ -1,8 +1,8 @@
-SQL Portfolio Introduction
+# SQL Portfolio Introduction
 
 Greetings and welcome to my SQL Portfolio! Within this repository, you'll find a collection of SQL examples that I've personally crafted. I invite you to explore and review the projects showcased here.
 
-About Me
+# About Me
 
 I'm David, and my journey in the tech industry has been fueled by a longstanding fascination with its continual growth. With a solid background in tech and sales, I've decided to embark on a new challenge in the field of data analytics.The appeal of working with numbers and engaging in creative thinking has always intrigued me.
 
